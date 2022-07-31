@@ -170,7 +170,7 @@
 </p>
 <br />
 
-<div style="">
+<div style="margin-top: 25px; margin-bottom: 20px">
   <p>
     <img
       align="left"
@@ -179,7 +179,6 @@
     />
   </p>
 </div>
-</br>
 <p>
   &nbsp;<img
     align="center"
