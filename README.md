@@ -170,7 +170,7 @@
 </p>
 <br />
 
-<div style="margin-top: 25px">
+<div style="">
   <p>
     <img
       align="left"
