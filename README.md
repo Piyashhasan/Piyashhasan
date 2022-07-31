@@ -18,17 +18,6 @@
 - 🌱 I’m currently learning **MERN STACK** <br />
 - 💬 Ask me about **Web Design & Development** <br />
 - 📫 How to reach me **piyashhasan38@gmail.com** <br />
-- 👨‍💻 All of my projects are available at
-<a href="https://piyash-hasan.netlify.app/](https://piyash-hasan.netlify.app/"
-  >Website</a
->
-<br />
-- 📄 Know about my experiences
-<a
-  href="https://drive.google.com/file/d/15e4DJ1DXlC8rL_3Cvp64h9jODZ3MTAfE/view](https://drive.google.com/file/d/15e4DJ1DXlC8rL_3Cvp64h9jODZ3MTAfE/view"
->
-  Click Here</a
->
 <br />
 <br />
 <p align="left" margin="10px">
