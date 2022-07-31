@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Piyash Hasan
-#### Web Designer | Web Developer | MERN Stack
 ![Web Designer | Web Developer | MERN Stack](https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1600%2C700&ssl=1)
 
+# Hi there 👋, I'm Piyash Hasan
+### Web Designer | Web Developer | MERN Stack
 Loved to Explore & Learn new things , not only learn but also loved to play with the things and try to make different things in different ways..
 
 Skills: HTML / CSS / Bootstrap / JavaScript / React / Nodejs / Express js / MongoDB
