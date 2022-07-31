@@ -38,6 +38,7 @@
   />
 </p>
 <br />
+<br />
 <p>
   I'm a passionate self-taught full stack web developer and computer science
   engineer from Bangladesh. I have a passion for learning and sharing my
