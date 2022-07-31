@@ -7,7 +7,7 @@
 <img
   align="right"
   alt="coding"
-  width="400"
+  width="380"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 <br />
