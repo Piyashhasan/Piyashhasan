@@ -19,7 +19,6 @@
 - 💬 Ask me about **Web Design & Development** <br />
 - 📫 How to reach me **piyashhasan38@gmail.com** <br />
 <br />
-<br />
 <p align="left" margin="10px">
   <img
     src="https://komarev.com/ghpvc/?username=piyashhasan&label=Profile%20views&color=0e75b6&style=flat"
@@ -27,7 +26,7 @@
   />
 </p>
 
-<hr>
+## 🚀 About Me
 <p>
   I'm a passionate self-taught full stack web developer and computer science
   engineer from Bangladesh. I have a passion for learning and sharing my
@@ -38,9 +37,8 @@
   happened through open-source.
 </p>
 
-<h3 align="left">📢 Skills & Experience:</h3>
-<hr>
-
+## 📢 Skills & Experience
+</br>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -174,8 +172,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
 
-<h3 align="left">📞 Connect with me:</h3>
-<hr>
+## 📞 Connect with me
+</br>
 <p align="left">
   <a href="https://twitter.com/piyashhasan1" target="blank"
     ><img
