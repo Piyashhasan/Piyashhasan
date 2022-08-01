@@ -26,8 +26,8 @@
     alt="piyashhasan"
   />
 </p>
-<br />
-<br />
+
+<hr>
 <p>
   I'm a passionate self-taught full stack web developer and computer science
   engineer from Bangladesh. I have a passion for learning and sharing my
@@ -39,7 +39,8 @@
 </p>
 
 <h3 align="left">📢 Skills & Experience:</h3>
-</br>
+<hr>
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -173,7 +174,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📞 Connect with me:</h3>
+<hr>
 <p align="left">
   <a href="https://twitter.com/piyashhasan1" target="blank"
     ><img
