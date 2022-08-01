@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">📢 Skills & Experience:</h3>
-<br />
+</br>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
