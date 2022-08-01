@@ -171,10 +171,10 @@
 </div>
 
 
-</br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
+
+
 
 
 
@@ -223,6 +223,8 @@
       width="40"
   /></a>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
 
 <br />
 <p>
