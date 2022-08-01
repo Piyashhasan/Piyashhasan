@@ -169,13 +169,16 @@
     />
   </p>
 </div>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=piyashhasan&show_icons=true&locale=en&theme=codeSTACKr"
-    alt="piyashhasan"
-  />
-</p>
+
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
