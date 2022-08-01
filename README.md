@@ -2,8 +2,8 @@
   src="https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1600%2C700&ssl=1"
   alt=""
 />
-<h1 align="center">Hi 👋, I'm Piyash Hasan</h1>
-<h3 align="center">Web Designer | Web Developer | MERN Stack</h3>
+<h1 align="center"> Hi 👋, I'm Piyash Hasan </h1>
+<h3 align="center"><i> Web Designer | Web Developer | MERN STACK </i></h3>
 <img
   align="right"
   alt="coding"
