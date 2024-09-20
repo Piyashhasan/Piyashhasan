@@ -96,7 +96,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
       alt="next js"
