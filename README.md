@@ -28,19 +28,19 @@
 
 ## 🚀 About Me
 <p>
-  I'm a passionate self-taught full stack web developer and computer science
-  engineer from Bangladesh. I have a passion for learning and sharing my
-  knowledge with others as publickly as possible. I love to solve real world
-  problems. I have theoretical and practical both types of knowledge. I can do
-  hard work and I will put all my efforts for the progress. I learned a lot from
-  the open-source community and i love how collaboration and knowledge sharing
+  I'm a passionate self-taught Full-stack Web Designer & Developer and Computer Science
+  Engineer from Bangladesh. I am passionate about learning and sharing my
+  knowledge with others as publicly as possible. I love to solve real-world
+  problems. I have both theoretical and practical types of knowledge. I can do
+  hard work and will put all my efforts into the progress. I learned a lot from
+  the open-source community and I love how collaboration and knowledge sharing
   happened through open-source.
 </p>
 
 ## 📢 Skills & Experience
 </br>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -48,7 +48,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -56,7 +56,7 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
@@ -64,7 +64,7 @@
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
@@ -72,7 +72,7 @@
       height="40"
     />
   </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/374118/tailwind.svg"
       alt="tailwind"
@@ -80,11 +80,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
+ <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -92,7 +88,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -108,7 +104,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/303557/redux-logo.svg"
       alt="redux"
@@ -116,7 +112,7 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -124,7 +120,7 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/353724/express.svg"
       alt="express js"
@@ -132,7 +128,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
@@ -140,7 +136,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg"
       alt="mongoose"
@@ -148,7 +144,7 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
@@ -156,7 +152,7 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
@@ -164,7 +160,7 @@
       height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
@@ -172,7 +168,7 @@
       height="40"
     />
   </a>
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/354512/vercel.svg"
       alt="vercel"
@@ -180,7 +176,7 @@
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
@@ -188,7 +184,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
