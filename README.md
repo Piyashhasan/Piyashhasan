@@ -15,7 +15,7 @@
 - 🖥️ I’m am Web Designer & Developer <br />
 - ✒️ Like to write code <br />
 - 🎤 Like to share my knowledge <br />
-- 🌱 I’m currently learning **MERN STACK** <br />
+- 🌱 I’m currently learning **FULL STACK** <br />
 - 💬 Ask me about **Web Design & Development** <br />
 - 📫 How to reach me **piyashhasan38@gmail.com** <br />
 <br />
@@ -39,7 +39,7 @@
 
 ## 📢 Skills & Experience
 </br>
-<p align="left">
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -56,7 +56,7 @@
       height="40"
     />
   </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
@@ -72,7 +72,14 @@
       height="40"
     />
   </a>
-
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/374118/tailwind.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -93,6 +100,22 @@
       height="40"
     />
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      alt="next js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/303557/redux-logo.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -101,10 +124,26 @@
       height="40"
     />
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/353724/express.svg"
+      alt="express js"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg"
+      alt="mongoose"
       width="40"
       height="40"
     />
@@ -133,6 +172,14 @@
       height="40"
     />
   </a>
+   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354512/vercel.svg"
+      alt="vercel"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -149,15 +196,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-      alt="matlab"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+
 <br />
 
 <div style="margin-top: 25px; margin-bottom: 20px">
