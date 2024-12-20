@@ -3,7 +3,7 @@
   alt=""
 />
 <h1 align="center"> Hi 👋, I'm Piyash Hasan </h1>
-<h3 align="center"><i> Web Designer | Web Developer | MERN Stack </i></h3>
+<h3 align="center"><i> Software Engineer | Web Developer | MERN Stack | Computer Science Engineer </i></h3>
 <img
   align="right"
   alt="coding"
