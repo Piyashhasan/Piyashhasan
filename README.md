@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 <p>
-  I'm a passionate self-taught Full-stack Web Designer & Developer and Computer Science
+  I'm a passionate self-taught Full-stack Developer and Computer Science
   Engineer from Bangladesh. I am passionate about learning and sharing my
   knowledge with others as publicly as possible. I love to solve real-world
   problems. I have both theoretical and practical types of knowledge. I can do
@@ -193,9 +193,9 @@
     />
   </a>
 
-<br />
 
-<div style="margin-top: 25px; margin-bottom: 20px">
+## 📊 GitHub Stats
+<div>
   <p>
     <img
       align="left"
@@ -205,11 +205,9 @@
   </p>
 </div>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
 
 ## 📞 Connect with me
-</br>
 <p align="left">
   <a href="https://linkedin.com/in/piyashhasan" target="blank"
     ><img
