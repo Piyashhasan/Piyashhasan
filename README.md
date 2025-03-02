@@ -28,13 +28,19 @@
 
 ## 🚀 About Me
 <p>
-  I'm a passionate self-taught Full-stack Developer and Computer Science
-  Engineer from Bangladesh. I am passionate about learning and sharing my
-  knowledge with others as publicly as possible. I love to solve real-world
-  problems. I have both theoretical and practical types of knowledge. I can do
-  hard work and will put all my efforts into the progress. I learned a lot from
-  the open-source community and I love how collaboration and knowledge sharing
-  happened through open-source.
+Hello, I'm Piyash Hasan. I am a passionate web developer with professional experience. Designing and Coding have been my passion since the days I started working with computers but I found myself in web development in 2020. 
+  
+<br/>
+
+I specialize in building dynamic, responsive websites that deliver exceptional user experience. My journey in web development began with a strong foundation in HTML, CSS, Bootstrap, Tailwind, and JavaScript. I have since expanded my skill set to include various frameworks and libraries such as React JS & Next JS.
+
+<br/>
+
+I am experienced in implementing front-end designs and optimizing websites for performance and accessibility. My commitment to continuous learning has enabled me to stay up-to-date with the latest industry trends and emerging technologies. I am always eager to expand my knowledge and explore new tools and frameworks that can enhance my development capabilities.
+
+<br/>
+
+In addition to technical skills, I possess strong problem-solving abilities and attention to detail, allowing me to identify and resolve issues efficiently.
 </p>
 
 ## 📢 Skills & Experience
