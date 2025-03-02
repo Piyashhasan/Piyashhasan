@@ -41,161 +41,28 @@ In addition to technical skills, I possess strong problem-solving abilities and 
 </p>
 
 ## 📢 Skills & Experience
-</br>
+### 🌐 Frontend
+- HTML5, CSS3, SCSS
+- JavaScript (ES6+), TypeScript
+- React Js, Redux Toolkit, Redux Thunk, Redux RTK Query
+- Next.js (SSR, CSR, SSG, ISR)
+- Tailwind CSS, Material UI, Bootstrap
+- Framer Motion (Animations), GSAP
 
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/374118/tailwind.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
-      alt="next js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/303557/redux-logo.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/353724/express.svg"
-      alt="express js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg"
-      alt="mongoose"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/354512/vercel.svg"
-      alt="vercel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
+### ⚙️ Backend
+- Node.js, Express.js
+- MongoDB, Mongoose
+- REST API, JWT Authentication
 
+### 🛠️ Tools & Platforms
+- Git & GitHub, GitLab
+- VS Code, Postman, Thunder Client
+- Firebase, Netlify, Vercel, Render
+
+### 📌 Others
+- API Integration
+- Responsive Web Design, PWA
+- Problem Solving & Debugging
 
 ## 📊 GitHub Stats
 <div>
