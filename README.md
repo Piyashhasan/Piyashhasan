@@ -45,7 +45,7 @@ In addition to technical skills, I possess strong problem-solving abilities and 
 - HTML5, CSS3, SCSS
 - JavaScript (ES6+), TypeScript
 - React Js, Redux Toolkit, Redux Thunk, Redux RTK Query
-- Next.js (SSR, CSR, SSG, ISR)
+- Next Js (SSR, CSR, SSG, ISR)
 - Tailwind CSS, Material UI, Bootstrap
 - Framer Motion (Animations), GSAP
 
