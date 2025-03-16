@@ -47,7 +47,7 @@ In addition to technical skills, I possess strong problem-solving abilities and 
 - React Js, Redux Toolkit, Redux Thunk, Redux RTK Query
 - Next Js (SSR, CSR, SSG, ISR)
 - Tailwind CSS, Material UI, Bootstrap
-- React Router, React Query
+- React Query, React Router, React Hook Form
 - Framer Motion (Animations), GSAP
 
 ### ⚙️ Backend
