@@ -53,13 +53,13 @@ while (true) {
 
 ## 🚀 Profile Summary
 <p>
-Hello, I'm Piyash Hasan. I am a passionate web developer with professional experience. Designing and Coding have been my passion since the days I started working with computers but I found myself in web development in 2020. 
+Hello, I'm Piyash Hasan. I am a passionate Full Stack Developer with professional experience. Designing and Coding have been my passions since the days I started working with computers, but I found myself in web development in 2020. 
 <br/>
   
-I specialize in building dynamic, responsive websites that deliver exceptional user experience. My journey in web development began with a strong foundation in HTML, CSS, Bootstrap, Tailwind, and JavaScript. I have since expanded my skill set to include various frameworks and libraries such as React JS & Next JS.
+I specialize in building dynamic, responsive websites that deliver exceptional user experience. My journey in web development began with a strong foundation in HTML, CSS, Bootstrap, Tailwind, JavaScript, and TypeScript. I have since expanded my skill set to include various frameworks and libraries such as React JS & Next JS. Additionally, I possess hands-on experience with Node.js, Express.js, MongoDB, and PostgreSQL, enabling effective collaboration on full-stack, API-driven applications.
 <br/>
 
-I am experienced in implementing front-end designs and optimizing websites for performance and accessibility. My commitment to continuous learning has enabled me to stay up-to-date with the latest industry trends and emerging technologies. I am always eager to expand my knowledge and explore new tools and frameworks that can enhance my development capabilities.
+I am experienced in implementing Front-end & Backend designs and optimizing websites for performance and accessibility. My commitment to continuous learning has enabled me to stay up-to-date with the latest industry trends and emerging technologies. I am always eager to expand my knowledge and explore new tools and frameworks that can enhance my development capabilities.
 <br/>
 
 In addition to technical skills, I possess strong problem-solving abilities and attention to detail, allowing me to identify and resolve issues efficiently.
@@ -77,7 +77,7 @@ In addition to technical skills, I possess strong problem-solving abilities and 
 
 ### ⚙️ Backend
 - Node.js, Express.js
-- MongoDB, Mongoose
+- MongoDB, Mongoose, PostgreSQL
 - REST API, JWT Authentication
 
 ### 🛠️ Tools & Platforms
