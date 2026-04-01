@@ -7,10 +7,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  ABOUT ME SECTION                   -->
-<!-- ═══════════════════════════════════════════════════ -->
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -94,6 +90,20 @@ In addition to technical skills, I possess strong problem-solving abilities and 
 - Responsive Web Design, PWA
 - Problem Solving & Debugging
 
+## 📈 &nbsp; Contribution Timeline
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyashhasan&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Piyash's%20Contribution%20Graph" width="100%" />
+</div>
+
+<br/>
+
+## 🐍 &nbsp; Watch My Contributions Get Eaten
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 📞 Connect with me
 <p align="left">
@@ -138,22 +148,5 @@ In addition to technical skills, I possess strong problem-solving abilities and 
       width="40"
   /></a>
 </p>
-
-
-## 📈 &nbsp; Contribution Timeline
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyashhasan&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Piyash's%20Contribution%20Graph" width="100%" />
-</div>
-
-<br/>
-
-
-## 🐍 &nbsp; Watch My Contributions Get Eaten
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
