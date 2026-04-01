@@ -3,7 +3,9 @@
   alt=""
 />
 <h1 align="center"> Hi 👋, I'm Piyash Hasan </h1>
-<h3 align="center"><i> Software Engineer | Web Developer | MERN Stack | Computer Science Engineer </i></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF5733&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Web+Application+Specialist" />
+</p>
 
 <br/>
 
