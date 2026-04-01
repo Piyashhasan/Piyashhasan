@@ -24,7 +24,7 @@ const piyash = {
   role     : "Full Stack Developer",
   stack    : ["React", "Next.js", "Node.js", "Express.js", "MongoDB"],
   passion  : "Crafting beautiful, fast & accessible web apps",
-  learning : ["Full Stack", "DSA", "System Design", "DB Design", "DevOps", "Web3"],
+  learning : ["DSA", "System Design", "DB Design", "DevOps"],
   funFact  : "I debug with console.log() and I'm proud 😄",
 };
 
