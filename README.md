@@ -139,6 +139,16 @@ In addition to technical skills, I possess strong problem-solving abilities and 
   /></a>
 </p>
 
+
+## 📈 &nbsp; Contribution Timeline
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyashhasan&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Piyash's%20Contribution%20Graph" width="100%" />
+</div>
+
+<br/>
+
+
 ## 🐍 &nbsp; Watch My Contributions Get Eaten
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
