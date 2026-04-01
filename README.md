@@ -4,27 +4,57 @@
 />
 <h1 align="center"> Hi 👋, I'm Piyash Hasan </h1>
 <h3 align="center"><i> Software Engineer | Web Developer | MERN Stack | Computer Science Engineer </i></h3>
-<img
-  align="right"
-  alt="coding"
-  width="380"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-/>
-<br />
-<br />
-- 🖥️ I’m am Web Designer & Developer <br />
-- ✒️ Like to write code <br />
-- 🎤 Like to share my knowledge <br />
-- 🌱 I’m currently learning **FULL STACK** <br />
-- 💬 Ask me about **Web Design & Development** <br />
-- 📫 How to reach me **piyashhasan38@gmail.com** <br />
-<br />
-<p align="left" margin="10px">
-  <img
-    src="https://komarev.com/ghpvc/?username=piyashhasan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="piyashhasan"
-  />
-</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  ABOUT ME SECTION                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## 🧑‍💻 &nbsp; Who Am I?
+
+```javascript
+const piyash = {
+  name     : "Piyash Hasan",
+  location : "Bangladesh 🇧🇩",
+  role     : "Full Stack Developer",
+  stack    : ["React", "Next.js", "Node.js", "MongoDB"],
+  passion  : "Crafting beautiful, fast & accessible web apps",
+  learning : ["System Design", "DevOps", "Web3"],
+  openTo   : "Remote opportunities 🌍",
+  funFact  : "I debug with console.log() and I'm proud 😄",
+};
+
+while (true) {
+  piyash.learnNewThings();
+  piyash.buildCoolStuff();
+  piyash.shareKnowledge();
+}
+```
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- QUICK STATS CARDS -->
+<div align="center">
+
+| 🗓️ Coding Since | 💼 Experience | 🌐 Specialty | 📍 Location |
+|:-:|:-:|:-:|:-:|
+| **2020** | **4+ Years** | **MERN Stack** | **Bangladesh** |
+
+</div>
 
 ## 🚀 About Me
 <p>
@@ -65,18 +95,6 @@ In addition to technical skills, I possess strong problem-solving abilities and 
 - Responsive Web Design, PWA
 - Problem Solving & Debugging
 
-## 📊 GitHub Stats
-<div>
-  <p>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=piyashhasan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"
-      alt="piyashhasan"
-    />
-  </p>
-</div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyashhasan&show_icons=true&theme=codeSTACKr)  
 
 ## 📞 Connect with me
 <p align="left">
@@ -122,7 +140,13 @@ In addition to technical skills, I possess strong problem-solving abilities and 
   /></a>
 </p>
 
-<br />
+</br>
 
+## 🐍 &nbsp; Watch My Contributions Get Eaten
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
