@@ -140,8 +140,6 @@ In addition to technical skills, I possess strong problem-solving abilities and 
   /></a>
 </p>
 
-</br>
-
 ## 🐍 &nbsp; Watch My Contributions Get Eaten
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
