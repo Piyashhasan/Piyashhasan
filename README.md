@@ -51,7 +51,7 @@ while (true) {
 
 </div>
 
-## 🚀 About Me
+## 🚀 Profile Summary
 <p>
 Hello, I'm Piyash Hasan. I am a passionate web developer with professional experience. Designing and Coding have been my passion since the days I started working with computers but I found myself in web development in 2020. 
 <br/>
