@@ -22,7 +22,7 @@ const piyash = {
   name     : "Piyash Hasan",
   location : "Bangladesh 🇧🇩",
   role     : "Full Stack Developer",
-  stack    : ["React", "Next.js", "Node.js", "Express.js", "MongoDB"],
+  stack    : ["Next.js", "Node.js", "Express.js", "MongoDB"],
   passion  : "Crafting beautiful, fast & accessible web apps",
   learning : ["DSA", "System Design", "DB Design", "DevOps"],
   funFact  : "I debug with console.log() and I'm proud 😄",
@@ -51,7 +51,7 @@ while (true) {
 
 | 🗓️ Coding Since | 💼 Experience | 🌐 Specialty | 📍 Location |
 |:-:|:-:|:-:|:-:|
-| **2020** | **4+ Years** | **MERN Stack** | **Bangladesh** |
+| **2020** | **3+ Years** | **MERN Stack** | **Bangladesh** |
 
 </div>
 
