@@ -22,10 +22,9 @@ const piyash = {
   name     : "Piyash Hasan",
   location : "Bangladesh 🇧🇩",
   role     : "Full Stack Developer",
-  stack    : ["React", "Next.js", "Node.js", "MongoDB"],
+  stack    : ["React", "Next.js", "Node.js", "Express.js", "MongoDB"],
   passion  : "Crafting beautiful, fast & accessible web apps",
-  learning : ["System Design", "DevOps", "Web3"],
-  openTo   : "Remote opportunities 🌍",
+  learning : ["Full Stack", "DSA", "System Design", "DB Design", "DevOps", "Web3"],
   funFact  : "I debug with console.log() and I'm proud 😄",
 };
 
