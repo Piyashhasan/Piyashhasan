@@ -107,48 +107,14 @@ In addition to technical skills, I possess strong problem-solving abilities and 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
 ## 📞 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/piyashhasan" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="piyashhasan"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/piyash.hasan.982" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="piyash.hasan.982"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/pi_yash" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="pi_yash"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/piyashhasan1" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="piyashhasan1"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://medium.com/@piyashhasan38" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@piyashhasan38"
-      height="30"
-      width="40"
-  /></a>
+<a href="https://linkedin.com/in/piyashhasan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://fb.com/piyash.hasan.982" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://instagram.com/pi_yash" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/piyashhasan1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@piyashhasan38" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 
