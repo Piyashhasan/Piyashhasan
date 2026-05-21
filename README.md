@@ -25,12 +25,6 @@ const piyash = {
   learning : ["DSA", "System Design", "DB Design", "DevOps"],
   funFact  : "I debug with console.log() and I'm proud 😄",
 };
-
-while (true) {
-  piyash.learnNewThings();
-  piyash.buildCoolStuff();
-  piyash.shareKnowledge();
-}
 ```
 
 </td>
